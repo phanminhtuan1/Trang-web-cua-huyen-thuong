@@ -10,33 +10,3 @@ h2 {
   color: purple;
   font-color: Edwardian Script ITC;
   font-size: 40px;
-  border: 2px solid blue;
-  padding:30px;
-  margin:30px;
-}
-p {
-  font-family: courier;
-  font-size:160%;
-}
-img {
-  width: 400;
-  height:379;
-}
-table{
-  border: 5px double black;
-  border-collapse: collapse;
-  font-size: 30px;
-}
-th, td {
-  border: 1px solid black; 
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-left: 13px;
-  padding-right: 13px;
-}
-th {
-  background-color: khaki;
-}
-tr:nth-child(even) {
-  background-color: lightgreen;
-}
